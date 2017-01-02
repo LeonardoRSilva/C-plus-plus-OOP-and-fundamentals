@@ -3,11 +3,11 @@ C++(OOP and fundamentals)
 
 ------------------------
 ## Exception Handling 
-  * [Try catch and throw] [1]
-  * [Function generating exception] [2]
-  * [Multiple catch statements] [3]
-  * [Nested exception] [4]
-  * [Restrict throw] [5]
-  * [Rethrowing exception] [6]
+  * [Try catch and throw]
+  * [Function generating exception] 
+  * [Multiple catch statements] 
+  * [Nested exception]
+  * [Restrict throw]
+  * [Rethrowing exception]
 -------------------------
 
