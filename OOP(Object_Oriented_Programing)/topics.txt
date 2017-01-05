@@ -1,0 +1,40 @@
+1 - classes
+	*Classe é um grupo de tipos de dados e funções
+	*A classe é apenas um modelo
+	*Classe é modelo de objeto
+	*Classe é tipos de dados definidos pelo usuário com dados e funções
+	
+2 - objects
+	*Objeto é instância de classe
+	*Podemos criar qualquer não de objeto usando classe
+	*Através de objetos que acessam os dados e funções da classe
+
+3 - inheritance
+	*Herança é o conceito onde criamos uma classe usando outra classe
+	*Uma vez que a herança teremos todas as propriedades da classe super dentro da classe interna
+	*Classe base ou Superclasse
+	*Classe derivada ou subclasse
+		*O corpo da classe está contido dentro de um conjunto de chaves 
+		*Uma definição de classe começa com a palavra-chave classe
+		*visibilidade
+		-public:Public properties or functions can be called from anywhere. They are accessible to all
+		-private: As propriedades privadas ou funções de uma classe só podem ser usadas dentro da classe que a define. Ele não pode ser chamado mesmo pela instância da mesma classe e também a classe herdada.
+		-protected: As propriedades ou funções protegidas desta classe só podem ser acessadas pela classe que herda esta classe como sua classe base
+	*Formas de herança
+		-Herança única
+		-Herança múltipla
+		-Herança hierárquica
+		-Herança multinível
+		-Herança híbrida
+4 - polymorphism
+	*muitas formas
+	*A mesma função pode ser usada para executar de forma diferente
+5 - encapsulation
+	*Pacote de dados e funções em um grupo
+	*Classe é um produto encapsulado
+	*Ocultação de dados é a principal característica
+6 - abstraction
+	*Ocultando os dados irrelevantes é alcançado
+	*Mostrando apenas os dados e funções necessários
+7 - interfaces
+	*Interfaces não podem ter objetos, mas podem herdar
