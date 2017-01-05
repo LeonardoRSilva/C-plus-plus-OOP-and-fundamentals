@@ -12,4 +12,9 @@ C++(OOP and fundamentals)
   * [Rethrowing exception]
   
 -------------------------
-
+## OOP(Object_Oriented_Programing)
+ * [class]
+ * [objects]
+ * [inheritance]
+ * [polymorphism]
+ * [encapsulation]
