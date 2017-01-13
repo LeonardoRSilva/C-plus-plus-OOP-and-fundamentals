@@ -3,8 +3,17 @@
 	*A classe é apenas um modelo
 	*Classe é modelo de objeto
 	*Classe é tipos de dados definidos pelo usuário com dados e funções
-	
+	1.1 - Construtor
+	-Construtor padrão
+		*um construtor que não aceita parametros é conhecido como construtor padrão. Se o construtor não é definido então o compilador procura um construtor padrão.
+	-Copy Constructor
+		*Um construtor que inicializa um objeto usando valores de outro objeto passado por parametro, é chamado copy constructor. Criando uma cópia do objeto passado.
+	-Destructor
+		*Um destrutor é uma função membro que tem o mesmo nome que a de sua classe precedida por ~ (tilde) sign e que é usado para destruir os objetos que foram criados por um construtor. Ele é invocado quando o escopo de um objeto é excedido
+
+
 2 - objects
+
 	*Objeto é instância de classe
 	*Podemos criar qualquer não de objeto usando classe
 	*Através de objetos que acessam os dados e funções da classe
@@ -29,6 +38,13 @@
 4 - polymorphism
 	*muitas formas
 	*A mesma função pode ser usada para executar de forma diferente
+
+		*function overriding
+		*virtual functions
+		*abstract class
+		*pure virtual functions
+		*virtual descructor
+		*operator overloading
 5 - encapsulation
 	*Pacote de dados e funções em um grupo
 	*Classe é um produto encapsulado
