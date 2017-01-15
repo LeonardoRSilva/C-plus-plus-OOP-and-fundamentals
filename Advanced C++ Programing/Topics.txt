@@ -1,0 +1,12 @@
+1- Inheritance
+2- Polymorphism
+3- Generic Programing
+4- Exception Hadling
+5- Stream input output
+6- Sequencial Containers
+7- Associative Containers - maps, sets
+8- Generic Algorithms
+9- Non=STL Data structures - stacks and queues
+10- Non-STL algorithms - Searching and sorting
+11- Namespaces
+11- String class
